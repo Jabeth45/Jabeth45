@@ -158,32 +158,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a0533,100:0d0d14&height=120&section=footer&text=Built%20with%20purpose.%20%F0%9F%87%AA%F0%9F%87%B9&fontSize=15&fontColor=e3b341&fontAlignY=65" width="100%"/>
 </div>
-
-
-## ◈ Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## ◈ Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabeth45)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jabeth45)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meleseyabets@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jabeth45)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jabeth45)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a0533,100:0d0d14&height=120&section=footer&text=Built%20with%20purpose.%20%F0%9F%87%AA%F0%9F%87%B9&fontSize=15&fontColor=e3b341&fontAlignY=65" width="100%"/>
-</div>
