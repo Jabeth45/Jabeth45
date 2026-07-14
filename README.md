@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=E3B341&center=true&vCenter=true&width=650&height=36&lines=Software+Engineer+%F0%9F%92%BB;Security-minded+Builder+%F0%9F%94%90;Frontend+%E2%86%92+Fullstack+%E2%86%92+Cybersecurity;Haqly+Founder+%F0%9F%9A%80;%2F%2F+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9)](https://github.com/jabeth45)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=E3B341&center=true&vCenter=true&width=650&height=36&lines=Software+Engineer+%F0%9F%92%BB;Cybersecurity+Engineer+%F0%9F%94%90;Security-minded+Builder;Haqly+Founder+%F0%9F%9A%80;%2F%2F+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9)](https://github.com/jabeth45)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/%E2%97%8F%20Status-Open%20to%20Opportunities-e3b341?style=for-the-badge&labelColor=0d0d14)&nbsp;
-![](https://img.shields.io/badge/%F0%9F%94%90%20Heading-Cybersecurity-8b5cf6?style=for-the-badge&labelColor=0d0d14)&nbsp;
-![](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B9%20Based-Ethiopia-4f46e5?style=for-the-badge&labelColor=0d0d14)
+![](https://img.shields.io/badge/Status-Open%20to%20Opportunities-e3b341?style=for-the-badge&labelColor=0d0d14)&nbsp;
+![](https://img.shields.io/badge/Focus-Cybersecurity-8b5cf6?style=for-the-badge&labelColor=0d0d14)&nbsp;
+![](https://img.shields.io/badge/Country-Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9-4f46e5?style=for-the-badge&labelColor=0d0d14)
 
 </div>
 
@@ -27,17 +27,16 @@
   Yabets Melese  //  Yaba
 
 ❯ cat role.txt
-  Software Engineer · Frontend is my strongest weapon.
-  Going deep into cybersecurity — that's the long game.
+  Software Engineer  ·  Cybersecurity Engineer
 
 ❯ ls projects/
   haqly  koinonia  livesync  hasnap  wellog  anonymous-counseling
 
 ❯ echo $MISSION
-  Build & protect systems that matter.
+  Build & secure systems that matter.
 
-❯ echo $VISION
-  Ethiopia's digital future — secured 🇪🇹
+❯ echo $COUNTRY
+  Ethiopia 🇪🇹
 ```
 
 ---
@@ -78,6 +77,10 @@
 **Security**
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-e3b341?style=for-the-badge&logo=cisco&logoColor=black)
 
@@ -99,6 +102,66 @@
 |--------|---------|-------------|-------|--------|
 | 🔑 | **[Haqly](https://github.com/jabeth45)** | Minimal financial tracker — expense habits, weekly insights, biometric login | React Native · TypeScript · Supabase | 🟣 Building |
 | 📊 | **[Koinonia](https://github.com/Jabeth45/Koinonia)** | Telegram bot analytics — activity tracking, FastAPI processing, live dashboard | Python · FastAPI · Celery · PostgreSQL | 🟢 Live |
+| 🎵 | **[LiveSync](https://github.com/jabeth45)** | Synced lyrics + live voice recording in the browser. Zero backend. | React · Next.js · Browser Audio API | 🟣 Building |
+| ⚡ | **[HaSnap](https://github.com/jabeth45)** | Capture thoughts, expenses, plans before they vanish | React · Vite · Tailwind · Python | 🟢 Live |
+| 🔒 | **[Anonymous Counseling](https://github.com/COD-J/counseling_anonymous)** | Telegram counseling — users stay fully anonymous from counselors | Python · Node.js · Telegram Bot API | 🟢 Live |
+| 📺 | **[WELLOG](https://github.com/jabeth45)** | PWA tracker for anime, movies, manhwa, books — 5 core modes | Next.js · PWA · Firebase · Supabase | 🟣 Building |
+
+---
+
+## ◈ GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jabeth45&show_icons=true&theme=tokyonight&title_color=e3b341&icon_color=8b5cf6&hide_border=true&bg_color=00000000&count_private=true&text_color=e2e8f0" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jabeth45&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=8b5cf6&hide_border=true&bg_color=00000000&langs_count=8&text_color=e2e8f0" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jabeth45&bg_color=0d0d14&color=e3b341&line=8b5cf6&point=ffffff&area=true&area_color=4c1d95&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/jabeth45/jabeth45/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+---
+
+## ◈ Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+## ◈ Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabeth45)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jabeth45)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meleseyabets@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jabeth45)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jabeth45)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a0533,100:0d0d14&height=120&section=footer&text=Built%20with%20purpose.%20%F0%9F%87%AA%F0%9F%87%B9&fontSize=15&fontColor=e3b341&fontAlignY=65" width="100%"/>
+</div>
 | 🎵 | **[LiveSync](https://github.com/jabeth45)** | Synced lyrics + live voice recording in the browser. Zero backend. | React · Next.js · Browser Audio API | 🟣 Building |
 | ⚡ | **[HaSnap](https://github.com/jabeth45)** | Capture thoughts, expenses, plans before they vanish | React · Vite · Tailwind · Python | 🟢 Live |
 | 🔒 | **[Anonymous Counseling](https://github.com/COD-J/counseling_anonymous)** | Telegram counseling where counselors never see user identity | Python · Node.js · Telegram Bot API | 🟢 Live |
