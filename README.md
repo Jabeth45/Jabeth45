@@ -24,7 +24,7 @@
 
 ```zsh
 ❯ whoami
-  Yabets Melese  //  Yaba
+  Yabets Melese
 
 ❯ cat role.txt
   Software Engineer  ·  Cybersecurity Engineer
@@ -162,12 +162,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a0533,100:0d0d14&height=120&section=footer&text=Built%20with%20purpose.%20%F0%9F%87%AA%F0%9F%87%B9&fontSize=15&fontColor=e3b341&fontAlignY=65" width="100%"/>
 </div>
-| 🎵 | **[LiveSync](https://github.com/jabeth45)** | Synced lyrics + live voice recording in the browser. Zero backend. | React · Next.js · Browser Audio API | 🟣 Building |
-| ⚡ | **[HaSnap](https://github.com/jabeth45)** | Capture thoughts, expenses, plans before they vanish | React · Vite · Tailwind · Python | 🟢 Live |
-| 🔒 | **[Anonymous Counseling](https://github.com/COD-J/counseling_anonymous)** | Telegram counseling where counselors never see user identity | Python · Node.js · Telegram Bot API | 🟢 Live |
-| 📺 | **[WELLOG](https://github.com/jabeth45)** | PWA tracker for anime, movies, manhwa, books — 5 core modes | Next.js · PWA · Firebase · Supabase | 🟣 Building |
-
----
 
 ## ◈ GitHub Stats
 
@@ -191,7 +185,6 @@
 
 <!-- SNAKE — animated contribution snake, enable via GitHub Actions -->
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/jabeth45/jabeth45/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
