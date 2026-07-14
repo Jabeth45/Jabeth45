@@ -163,33 +163,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a0533,100:0d0d14&height=120&section=footer&text=Built%20with%20purpose.%20%F0%9F%87%AA%F0%9F%87%B9&fontSize=15&fontColor=e3b341&fontAlignY=65" width="100%"/>
 </div>
 
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jabeth45&show_icons=true&theme=tokyonight&title_color=e3b341&icon_color=8b5cf6&hide_border=true&bg_color=00000000&count_private=true&text_color=e2e8f0" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jabeth45&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=8b5cf6&hide_border=true&bg_color=00000000&langs_count=8&text_color=e2e8f0" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jabeth45&bg_color=0d0d14&color=e3b341&line=8b5cf6&point=ffffff&area=true&area_color=4c1d95&hide_border=true" />
-
-</div>
-
-<br/>
-
-<!-- SNAKE — animated contribution snake, enable via GitHub Actions -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/jabeth45/jabeth45/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
-
----
 
 ## ◈ Dev Quote
 
