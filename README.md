@@ -7,7 +7,6 @@
 ![](https://img.shields.io/badge/Focus-Web%20Security-8b5cf6?style=for-the-badge&labelColor=0d0d14)&nbsp;
 ![](https://img.shields.io/badge/Direction-Purple%20Team-4c1d95?style=for-the-badge&labelColor=0d0d14)&nbsp;
 ![](https://img.shields.io/badge/Status-Open%20to%20Opportunities-e3b341?style=for-the-badge&labelColor=0d0d14)&nbsp;
-![](https://img.shields.io/badge/Ethiopia-%F0%9F%87%AA%F0%9F%87%B9-0d0d14?style=for-the-badge&labelColor=0d0d14)
 
 </div>
 
